@@ -1,5 +1,7 @@
 ## Copy parts between sprite costumes
 
+--- task ---
+
 Click on the **Costumes** tab for your sprite:
 
 ![Available costumes for the Nano sprite](images/nano-costumes.png)
@@ -8,7 +10,7 @@ Click on the **Costumes** tab for your sprite:
 
 --- task ---
 
-**Tip:** Duplicate the costume you want to edit, right-click (or tap and hold on a tablet) on the costume and choose 'duplicate'. You will now have a second copy of the costume - so you can still use the original if needed.
+**Tip:** Duplicate the costume you want to edit - so you can still use the original if needed. Right-click (or tap and hold on a tablet) on the costume and choose 'duplicate'. You will now have a second copy of the costume.
 
 ![The menu to duplicate costumes](images/nano-duplicate-costume.png)
 
