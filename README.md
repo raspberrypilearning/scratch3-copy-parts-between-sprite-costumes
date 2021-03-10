@@ -1,0 +1,1 @@
+# scratch3-copy-parts-between-sprite-costumes
