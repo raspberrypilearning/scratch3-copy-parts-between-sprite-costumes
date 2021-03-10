@@ -1,59 +1,60 @@
-## Introduction
+## Copy parts between sprite costumes
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Click on the **Costumes** tab for your sprite:
 
-### What you will make
+![Available costumes for the Nano sprite](images/nano-costumes.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- /task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+**Tip:** Duplicate the costume you want to edit, right-click (or tap and hold on a tablet) on the costume and choose 'duplicate'. You will now have a second copy of the costume - so you can still use the original if needed.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![The menu to duplicate costumes](images/nano-duplicate-costume.png)
 
-+ A computer or tablet capable of running Scratch 3
+![Location of the duplicated costume](images/nano-a2-costume.png)
 
-### Software
+--- /task ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- task ---
 
-### Downloads
+To remove any areas of the costume you no longer need, click on the part to select it then click **Delete**.
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+![Nano with arm selected](images/nano-arm-selected.png)
 
---- /collapse ---
+The duplicated costume with parts removed should look something like this:
 
---- collapse ---
----
-title: What you will learn
----
+![Nano with arm deleted](images/nano-arm-deleted.png)
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+--- /task ---
 
---- /collapse ---
+**Tip:** If you make a mistake in the Paint editor you can click Undo ![image of the undo icon](images/nano-undo.png)
 
---- collapse ---
----
-title: Additional information for educators
----
+--- task ---
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+Go to the costume with the detail you want to add and click on the part you need then click **Copy**.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+![Nano c with arm selected](images/nano-c-arm-selected.png)
 
---- /collapse ---
+If you want to add a costume not already shown in the **Costumes** tab, click on the **Choose a costume** button. Then find the costume you want and click on it to add it to your sprite. 
+
+![Choose a costume button highlighted](images/choose-a-costume.png)
+
+--- /task ---
+
+--- task ---
+
+Go back to the duplicated costume and click on **Paste**. The duplicated costume should look something like this:
+
+![Nano a2 with new arm](images/nano-a2-new-arm.png)
+
+--- /task ---
+
+--- task ---
+
+Now switch to the **Code** tab you will be able to use your new costume in your code blocks:
+
+```blocks3
+switch costume to [nano-a2 v] // the edited costume
+```
+--- /task ---
