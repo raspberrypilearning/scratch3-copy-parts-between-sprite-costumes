@@ -1,5 +1,3 @@
-## Copy parts between sprite costumes
-
 Click on the **Costumes** tab for your sprite:
 
 ![Available costumes for the Nano sprite](images/nano-costumes.png)
