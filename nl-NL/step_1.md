@@ -1,38 +1,38 @@
-## Copy parts between sprite costumes
+## Kopieer delen tussen sprite-uiterlijken
 
-Click on the **Costumes** tab for your sprite:
+Klik op het **Uiterlijken** tabblad voor jouw sprite:
 
-![Available costumes for the Nano sprite](images/nano-costumes.png)
+![Beschikbare uiterlijken voor de Nano sprite](images/nano-costumes.png)
 
-**Tip:** Duplicate the costume you want to edit - so you can still use the original if needed. Right-click (or tap and hold on a tablet) on the costume and choose 'duplicate'. You will now have a second copy of the costume.
+**Tip:** Kopieer het uiterlijk dat je wilt aanpassen - zo kun je nog steeds het origineel blijven gebruiken. Klik met de rechtermuisknop (of tik en houd vast op een tablet) op het uiterlijk en kies 'dupliceren'. Je hebt nu een tweede kopie van het uiterlijk.
 
-![The menu to duplicate costumes](images/nano-duplicate-costume.png)
+![Het menu om uiterlijken te dupliceren](images/nano-duplicate-costume.png)
 
-![Location of the duplicated costume](images/nano-a2-costume.png)
+![Plaats van het gedupliceerde uiterlijk](images/nano-a2-costume.png)
 
-To remove any areas of the costume you no longer need, click on the part to select it then click **Delete**.
+Om delen van het uiterlijk te verwijderen die je niet nodig hebt, klik je op dat deel om het te selecteren en klik dan op **Verwijder**.
 
-![Nano with arm selected](images/nano-arm-selected.png)
+![Nano met arm geselecteerd](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+Het gedupliceerde uiterlijk met delen verwijderd zou er ongeveer zo uit moeten zien:
 
-![Nano with arm deleted](images/nano-arm-deleted.png)
+![Nano met arm verwijderd](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor you can click Undo ![image of the undo icon](images/nano-undo.png)
+**Tip:** Als je een foutje in de Teken-editor maakt, kun je op Ongedaan maken klikken ![afbeelding van het ongedaan maken pictogram](images/nano-undo.png)
 
-Go to the costume with the detail you want to add and click on the part you need then click **Copy**.
+Ga naar het uiterlijk met het detail dat je toe wilt voegen, klik op het deel dat je nodig hebt en klik dan op **Kopie maken**.
 
-![Nano c with arm selected](images/nano-c-arm-selected.png)
+![Nano c met arm geselecteerd](images/nano-c-arm-selected.png)
 
-If you want to add a costume not already shown in the **Costumes** tab, click on the **Choose a costume** button. Then find the costume you want and click on it to add it to your sprite.
+Als je een uiterlijk toe wilt voegen dat nog niet in het **Uiterlijken** tabblad staat, klik dan op de **Kies een uiterlijk** knop. Zoek dan het uiterlijk dat je wilt en klik erop om het aan je sprite toe te voegen.
 
-![Choose a costume button highlighted](images/choose-a-costume.png)
+![Kies een uiterlijk knop gemarkeerd](images/choose-a-costume.png)
 
-Go back to the duplicated costume and click on **Paste**. The duplicated costume should look something like this:
+Ga terug naar het gedupliceerde uiterlijk en klik op **Plakken**. Het gedupliceerde uiterlijk zou er ongeveer zo uit moeten zien:
 
-![Nano a2 with new arm](images/nano-a2-new-arm.png)
+![Nano a2 met nieuwe arm](images/nano-a2-new-arm.png)
 
-Now switch to the **Code** tab you will be able to use your new costume in your code blocks:
+Ga nu naar het **Code** tabblad en je kunt je nieuwe uiterlijk in de codeblokken gebruiken:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
