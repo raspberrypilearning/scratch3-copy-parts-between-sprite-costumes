@@ -14,7 +14,7 @@ To remove any part of the costume that you do not need any more, click on the pa
 
 The duplicated costume with parts removed should look something like this:
 
-![The nano-a2 costume with their arm deleted.](images/nano-arm-deleted.png)
+![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
 
 **Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![Image of the 'Undo' icon.](images/nano-undo.png)
 
@@ -26,9 +26,9 @@ If you want to add a part from a costume that is not already shown in the **Cost
 
 ![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should look something like this:
+When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
 
-![The nano-a2 costume with their new arm.](images/nano-a2-new-arm.png)
+![The nano-a2 costume with the new arm.](images/nano-a2-new-arm.png)
 
 Now, switch to the **Code** tab. You will be able to use your new costume in your code blocks:
 
