@@ -16,7 +16,7 @@ The duplicated costume with parts removed should look something like this:
 
 ![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![Image of the 'Undo' icon.](images/nano-undo.png)
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
 
 Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
 
@@ -28,9 +28,9 @@ If you want to add a part from a costume that is not already shown in the **Cost
 
 When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
 
-![The nano-a2 costume with the new arm.](images/nano-a2-new-arm.png)
+![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use your new costume in your code blocks:
+Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
