@@ -1,7 +1,5 @@
 Click on the **Costumes** tab for your sprite:
 
-![The Costumes tab, with the available costumes for the Nano sprite.](images/nano-costumes.png)
-
 **Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
 
 ![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
