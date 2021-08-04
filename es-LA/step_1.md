@@ -1,6 +1,6 @@
-Click on the **Costumes** tab for your sprite.
+Haz clic en la pestaña **Disfraces** de tu objeto.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. Ahora tendrás una copia del disfraz:
 
 ![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
 
@@ -14,7 +14,7 @@ The duplicated costume with parts removed should look something like this:
 
 ![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
+**Consejo:** Si cometes un error en el editor de dibujos, puedes hacer clic en **Deshacer**: ![The 'Undo' icon.](images/nano-undo.png)
 
 Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
 
