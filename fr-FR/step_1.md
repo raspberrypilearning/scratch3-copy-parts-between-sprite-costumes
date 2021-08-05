@@ -1,34 +1,34 @@
 Clique sur l'onglet **Costumes** pour ton sprite.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. Tu auras maintenant une copie du costume :
+**Astuce :** Duplique le costume que tu souhaites modifier afin de pouvoir toujours utiliser le costume d'origine si tu en a besoin. Pour faire cela, fais un clic droit (ou sur une tablette, appuie longuement) sur le costume et choisis **dupliquer**. Tu auras maintenant une copie du costume :
 
-![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
+![L'option « dupliquer » en surbrillance dans le menu.](images/nano-duplicate-costume.png)
 
-![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
+![Le costume dupliqué est situé juste en dessous du costume d'origine dans l'onglet Costumes.](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+Pour supprimer une partie du costume dont tu n'a plus besoin, clique sur la partie pour la sélectionner, puis clique sur **Supprimer** :
 
-![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
+![Le costume nano-a2 avec un bras sélectionné.](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+Le costume dupliqué avec des parties supprimées devrait ressembler à ceci :
 
-![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
+![Le costume nano-a2 avec le bras supprimé.](images/nano-arm-deleted.png)
 
-**Astuce :** si tu fais une erreur dans l'éditeur de peinture, tu peux cliquer sur **Annuler** : ![The 'Undo' icon.](images/nano-undo.png)
+**Astuce :** si tu fais une erreur dans l'éditeur de peinture, tu peux cliquer sur **Annuler** : ![L'icône « Annuler ».](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+Va au costume avec la pièce que tu souhaites ajouter et clique sur la pièce dont tu as besoin, puis clique sur **Copier** :
 
-![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
+![Le costume nano-c avec un bras sélectionné.](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+Si tu souhaites ajouter une partie d'un costume qui n'est pas déjà affiché dans l'onglet **Costumes** , tu dois d'abord ajouter le costume à ton sprite. Clique sur l'icône **Choisir un costume** , puis trouve le costume que tu souhaites et clique dessus pour l'ajouter à ton sprite :
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![L'icône « Choisir un costume » en surbrillance.](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
+Lorsque tu as copié la partie dont tu as besoin, retourne au costume dupliqué et clique sur **Coller**. Le costume dupliqué devrait maintenant ressembler à ceci :
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![Le costume nano-a2 avec le bras du costume nano-c.](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
+Maintenant, passe à l'onglet **Code**. Tu pourras utiliser le nouveau costume dans tes blocs de code :
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
