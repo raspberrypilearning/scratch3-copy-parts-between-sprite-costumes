@@ -1,6 +1,6 @@
 Haz clic en la pestaña **Disfraces** de tu objeto.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. Ahora tendrás una copia del disfraz:
+**Consejo:** Duplica el disfraz que quieres editar, para que puedas seguir usando el original si es necesario. Para hacer esto, haz clic derecho (o en una tableta, mantén presionado) en el disfraz y elige **duplicar**. Ahora tendrás una copia del disfraz:
 
 ![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
 
