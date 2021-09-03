@@ -1,34 +1,34 @@
-Click on the **Costumes** tab for your sprite.
+スプライトの **コスチューム** タブをクリックします。
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**ヒント: **編集 (へんしゅう) したいコスチュームを複製 (ふくせい) しましょう。こうすることで、元のコスチュームを引きつづき使用できます。 複製するには、コスチュームを右クリック（またはタブレットではタップアンドホールド(長押し)）して、 **複製**を選択 (せんたく) します。 これで、コスチュームのコピーが作成されます。
 
-![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
+![メニューで強調されている「複製」オプション](images/nano-duplicate-costume.png)
 
-![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
+![複製されたコスチュームは、コスチュームタブの元のコスチュームのすぐ下にあります。](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+コスチュームのいらない部分を削除 (さくじょ) するには、その部分をクリックして選択し、 **削除**をクリックします。
 
-![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
+![うでの1本が選択されたコスチューム (nano-a2)](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+パーツを削除した複製したコスチュームは、次のようになります。
 
-![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
+![うでを削除したコスチューム (nano-a2)](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
+**ヒント: ** ペイントエディタでまちがえた場合は、 **元に戻す** (もどす) をクリックしてください。 ![「元に戻す」アイコン](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+追加 (ついか) したいパーツが使われているコスチュームに行き、使いたいパーツをクリックしてから**コピー**をクリックします。
 
-![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
+![うでの1本が選択されたコスチューム (nano-c)](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+**コスチューム**タブにないコスチュームのパーツを使いたい場合、まずはそのコスチュームをスプライトに追加する必要があります。 **コスチュームを選ぶ** (えらぶ) をクリックし、パーツを使いたいコスチュームをクリックしてスプライトに追加します。
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![強調されている「コスチュームの選択」アイコン](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
+使いたい部分をコピーしたら複製したコスチュームにもどり、 **貼り付け** (はりつけ) をクリックします。 複製されたコスチュームは次のようになります。
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![nano-cコスチュームのうでをつけたnano-a2コスチューム](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
+次に **コード** タブに切りかえます。 コードブロックで新しいコスチュームを使用できるようになります。
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
