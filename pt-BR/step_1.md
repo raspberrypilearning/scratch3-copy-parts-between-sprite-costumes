@@ -1,34 +1,34 @@
-Click on the **Costumes** tab for your sprite.
+Clique na aba **Fantasias** para o seu ator.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**Dica:** Duplique a fantasia que você deseja editar— assim você ainda pode usar a fantasia original, caso precise. Para fazer isso, clique com o botão direito do mouse (se estiver usando um tablet, pressione e segure) na fantasia e escolha **duplicar**. Assim você terá uma cópia da fantasia:
 
-![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
+![Opção 'duplicar' destacada no menu.](images/nano-duplicate-costume.png)
 
-![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
+![Fantasia duplicada está localizada logo abaixo da fantasia original na aba Fantasias.](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+Para remover qualquer parte de uma fantasia que você não precisa mais, clique na parte desejada para selecioná-la, em seguida clique em **Deletar**:
 
-![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
+![Fantasia nano-a2 com um braço selecionado.](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+A fantasia duplicada com as partes removidas deve ser parecido com isto:
 
-![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
+![Fantasia nano-a2 com o braço deletado.](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
+**Dica:** Se você cometer um erro no editor do Paint, pode clicar em **Desfazer**: ![Icone 'desfazer'.](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+Vá para fantasia com a parte que você deseja adicionar e clique na parte que você precisa, em seguida clique em **Copiar**:
 
-![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
+![Fantasia nano-c com um braço selecionado.](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+Se você deseja adicionar uma parte de uma fantasia que ainda não está aparecendo na aba **Fantasias**, primeiro você precisa adicionar a fantasia para o seu ator. Clique no ícone **Escolha uma fantasia**, em seguida escolha a fantasia que você deseja e clique nela para adicioná-la em seu ator:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![Icone 'Escolha uma fantasia' destacado.](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
+Quando você tiver copiado a parte que você precisa, volte para a fantasia duplicada e clique em **Colar**. A fantasia duplicada deve ser parecido com isto:
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![Fantasia nano-a2 com o braço da fantasia nano-c.](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
+Agora, mude para a guia **Código**. Você poderá usar a nova fantasia em seu blocos de código:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
