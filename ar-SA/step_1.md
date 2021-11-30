@@ -1,22 +1,22 @@
 انقر فوق علامة تبويب ** المظاهر** للكائنات.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**نصيحة:** قم بتكرار المظهر الذي تريد تعديله - بحيث لا يزال بإمكانك استخدام المظهر الأصلي إذا كنت بحاجة إلى ذلك. للقيام بذلك، انقر بزر الماوس الأيمن (أو على جهاز لوحي، انقر مع الاستمرار) على المظهر واختر **مضاعفة**. سيكون لديك الآن نسخة من المظهر:
 
 ![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
 
 ![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+لإزالة أي جزء من المظهر لم تعد بحاجة إليه، انقر فوق الجزء لتحديده، ثم انقر فوق **حذف**:
 
 ![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+يجب أن يبدو المظهر المكرر مع إزالة الأجزاء كما يلي:
 
 ![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
+**نصيحة:** إذا قمت بخطأ ما في محرر الرسام ، يمكنك النقر فوق **تراجع**: ![The 'Undo' icon.](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+انتقل إلى المظهر الذي يحتوي على الجزء الذي تريد إضافته وانقر على الجزء الذي تريده ، ثم انقر فوق **نسخ**:
 
 ![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
 
