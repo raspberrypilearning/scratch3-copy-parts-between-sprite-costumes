@@ -2,7 +2,7 @@
 
 **نصيحة:** قم بتكرار المظهر الذي تريد تعديله - بحيث لا يزال بإمكانك استخدام المظهر الأصلي إذا كنت بحاجة إلى ذلك. للقيام بذلك، انقر بزر الماوس الأيمن (أو على جهاز لوحي، انقر مع الاستمرار) على المظهر واختر **مضاعفة**. سيكون لديك الآن نسخة من المظهر:
 
-![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
+![تم تمييز خيار "تكرار" في القائمة.](images/nano-duplicate-costume.png)
 
 ![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
 
