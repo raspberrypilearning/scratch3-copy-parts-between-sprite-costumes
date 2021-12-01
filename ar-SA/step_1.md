@@ -20,7 +20,7 @@
 
 ![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. انقر على **اختيار مظهر** ، ثم ابحث عن المظهر الذي تريده وانقر عليه لإضافته إلى كائنك:
 
 ![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
 
