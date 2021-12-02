@@ -8,27 +8,27 @@
 
 لإزالة أي جزء من المظهر لم تعد بحاجة إليه، انقر فوق الجزء لتحديده، ثم انقر فوق **حذف**:
 
-![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
+![المظهر nano-a2 مع اختيار ذراع واحدة.](images/nano-arm-selected.png)
 
 يجب أن يبدو المظهر المكرر مع إزالة الأجزاء كما يلي:
 
-![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
+![تم حذف مظهر nano-a2 بذراعه.](images/nano-arm-deleted.png)
 
-**نصيحة:** إذا قمت بخطأ ما في محرر الرسام ، يمكنك النقر فوق **تراجع**: ![The 'Undo' icon.](images/nano-undo.png)
+**نصيحة:** إذا قمت بخطأ ما في محرر الرسام ، يمكنك النقر فوق **تراجع**: ![رمز "تراجع".](images/nano-undo.png)
 
 انتقل إلى المظهر الذي يحتوي على الجزء الذي تريد إضافته وانقر على الجزء الذي تريده ، ثم انقر فوق **نسخ**:
 
-![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
+![المظهر nano-c مع اختيار ذراع واحدة.](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. انقر على **اختيار مظهر** ، ثم ابحث عن المظهر الذي تريده وانقر عليه لإضافته إلى كائنك:
+إذا كنت ترغب في إضافة جزء من مظهر لم يتم عرضه بالفعل في **مظاهر**، فأنت بحاجة إلى إضافة المظهر إلى الكائن الخاص بك أولاً. انقر على **اختيار مظهر**، ثم ابحث عن المظهر الذي تريده وانقر عليه لإضافته إلى كائنك:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![تم تمييز رمز "اختيار مظهر".](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
+عندما تنسخ الجزء الذي تريده، ارجع إلى المظهر المكرر وانقر على **لصق**. يجب أن يبدو المظهر المكرر الآن كما يلي:
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![مظهر nano-a2 بذراع مظهر nano-c.](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
+الآن، قم بالتبديل إلى علامة التبويب **المقاطع البرمجية**. ستتمكن من استخدام المظهر الجديد في التعليمات البرمجية الخاصة بك:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
