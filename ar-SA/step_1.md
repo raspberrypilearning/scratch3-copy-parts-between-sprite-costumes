@@ -4,7 +4,7 @@
 
 ![تم تمييز خيار "تكرار" في القائمة.](images/nano-duplicate-costume.png)
 
-![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
+![يقع المظهر المكرر أسفل المظهر الأصلي مباشرةً في علامة تبويب المظاهر.](images/nano-a2-costume.png)
 
 لإزالة أي جزء من المظهر لم تعد بحاجة إليه، انقر فوق الجزء لتحديده، ثم انقر فوق **حذف**:
 
