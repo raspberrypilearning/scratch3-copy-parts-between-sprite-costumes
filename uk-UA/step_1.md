@@ -1,34 +1,34 @@
-Click on the **Costumes** tab for your sprite.
+Клацни на вкладку **Образи** для твого спрайта.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**Порада:** продублюй образ, який ти хочеш відредагувати; таким чином, ти зможеш використати оригінальний образ при необхідності. Для цього клацни правою кнопкою миші (або на планшеті тапни й утримуй) по образу та вибери **дублювати**. Тепер у тебе буде копія цього образа:
 
-![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
+![Функція «дублювати» виділена в меню.](images/nano-duplicate-costume.png)
 
-![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
+![Продубльований образ знаходиться відразу під оригінальним образом на вкладці «Образи».](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+Щоб видалити будь-яку частину образу, яка тобі більше не потрібна, клацни по цій частині, щоб виділити її, а потім натисни **Вилучити**:
 
-![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
+![Образ нано-а2 з однією рукою вибрано.](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+Продубльований образ з видаленими частинами має виглядати приблизно так:
 
-![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
+![Образ нано-а2 з однією рукою видалено.](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
+**Порада:** якщо в Редакторі малювання допущена помилка, можеш натиснути **Скасувати**: ![Іконка «Скасувати».](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+Перейди до образу з частиною, яку ти хочеш додати та натисни на потрібну тобі частину, після чого натисни **Копіювати**:
 
-![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
+![Образ нано-с з однією рукою вибрано.](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+Якщо ти хочеш додати частину з образа, який ще не показаний на вкладці **Образи**, тобі потрібно спочатку додати образ до спрайта. Клацни на іконку **Обрати образ**, потім знайди потрібний тобі образ і клацни на нього, щоб додати його до спрайта:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+![Іконка «Обрати образ» виділена.](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
+Коли ти скопіював потрібну тобі частину, повернись до продубльованого образу і натисни **Вставити**. Дублікат образу тепер має виглядати приблизно так:
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![Образ нано-а2 з рукою від образу нано-с.](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
+Тепер перейди на вкладку **Код**. Ти можеш використовувати новий образ у своїх блоках коду:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
