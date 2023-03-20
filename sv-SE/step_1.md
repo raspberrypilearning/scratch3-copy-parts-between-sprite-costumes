@@ -1,34 +1,34 @@
-Click on the **Costumes** tab for your sprite.
+Klicka på din sprajts **Klädsel**flik.
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**Tips:** Duplicera klädseln som du vill redigera så att du fortfarande kan använda originalklädseln om du behöver. För att göra detta, högerklicka (eller på en surfplatta, tryck och håll kvar) på klädseln och välj **duplicera**. Du kommer nu att ha en kopia av klädseln:
 
-![The 'duplicate' option highlighted in the menu.](images/nano-duplicate-costume.png)
+!["Duplicera"-alternativet markerat i menyn.](images/nano-duplicate-costume.png)
 
-![The duplicated costume is located just below the original costume in the Costumes tab.](images/nano-a2-costume.png)
+![Den duplicerade klädseln finns precis under originalklädseln i klädselfliken.](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+För att ta bort någon del av klädseln som du inte behöver längre, klicka på delen för att välja den och klicka sedan på **Ta bort**:
 
-![The nano-a2 costume with one arm selected.](images/nano-arm-selected.png)
+![Nano-a2-klädseln med en arm vald.](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+Den duplicerade klädseln med borttagna delar ska se ut ungefär så här:
 
-![The nano-a2 costume with the arm deleted.](images/nano-arm-deleted.png)
+![Nano-a2-klädseln med en borttagen arm.](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: ![The 'Undo' icon.](images/nano-undo.png)
+**Tips:** Om du gör ett misstag i målarredigeraren kan du klicka på **Ångra**: !["Ångra"-ikonen.](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+Välj klädseln med den del du vill lägga till och klicka på den del du behöver, klicka sedan på **Kopiera**:
 
-![The nano-c costume with one arm selected.](images/nano-c-arm-selected.png)
+![Nano-c-klädseln med en arm vald.](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+Om du vill lägga till en del från en klädsel som inte redan finns i **klädsel**fliken måste du först lägga till klädseln till din sprajt. Klicka på **"Välj en klädsel"**-ikonen, hitta den klädsel du vill ha och klicka på den för att lägga till den till din sprajt:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+!["Välj en kostym"-ikonen markerad.](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. The duplicated costume should now look something like this:
+När du har kopierat den del du behöver, gå tillbaka till den kopierade klädseln och klicka på **Klistra in**. Den duplicerade klädseln ska nu se ut ungefär så här:
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![Nano-a2-klädseln med armen från nano-c-klädseln.](images/nano-a2-new-arm.png)
 
-Now, switch to the **Code** tab. You will be able to use the new costume in your code blocks:
+Byt nu till **Kod**fliken. Du kommer att kunna använda den nya klädseln i dina kodblock:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
