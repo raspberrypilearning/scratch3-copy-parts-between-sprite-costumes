@@ -1,34 +1,34 @@
-Click on the **Costumes** tab for your sprite.
+अपने स्प्राइट के **पोशाक** टैब पर क्लिक करें।
 
-**Tip:** Duplicate the costume that you want to edit — so that you can still use the original costume if you need to. To do this, right-click (or on a tablet, tap and hold) on the costume and choose **duplicate**. You will now have a copy of the costume:
+**टिप:** उस पोशाक को डुप्लिकेट करें जिसका आप संपादन करना चाहते हैं— ताकि यदि आपको आवश्यकता हो तब भी आप मूल (ऑरिजनल) पोशाक का उपयोग कर सकें। ऐसा करने के लिए, पोशाक पर राइट-क्लिक करें (या टैबलेट पर, टैप करे) और **डुप्लिकेट** चुनें। अब आपके पास पोशाक की एक कापी होगी:
 
 ![मेनू में हाइलाइट किया गया 'डुप्लिकेट' विकल्प।](images/nano-duplicate-costume.png)
 
 ![डुप्लीकेट पोशाक, पोशाक टैब में मूल पोशाक के ठीक नीचे स्थित होती है।](images/nano-a2-costume.png)
 
-To remove any part of the costume that you do not need any more, click on the part to select it, then click on **Delete**:
+पोशाक के किसी भी भाग, जिसकी अब आपको आवश्यकता नहीं है, उसे हटाने के लिए उस भाग पर क्लिक करें, फिर **हटाएं** पर क्लिक करें:
 
 ![चुने गए एक हाथ के साथ नैनो-ए2 पोशाक।](images/nano-arm-selected.png)
 
-The duplicated costume with parts removed should look something like this:
+हिस्सों को हटाने के बाद डुप्लिकेट पोशाक कुछ इस तरह दिखनी चाहिए:
 
 ![हटाई हुई बाँह के साथ नैनो-ए2 पोशाक।](images/nano-arm-deleted.png)
 
-**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**: !['पूर्ववत करें' आइकन।](images/nano-undo.png)
+**टिप:** यदि आप पेंट संपादक में कोई गलती करते हैं, तो आप **पूर्ववत करें** पर क्लिक कर सकते हैं: !['पूर्ववत करें' आइकन।](images/nano-undo.png)
 
-Go to the costume with the part that you want to add and click on the part that you need, then click on **Copy**:
+जिस हिस्सा को आप जोड़ना चाहते हैं उसके पोशाक में जाएं और जिस हिस्से की आपको जरूरत है उस पर क्लिक करें, फिर **कॉपी** पर क्लिक करें:
 
 ![चुने गए एक हाथ के साथ नैनो-सी पोशाक।](images/nano-c-arm-selected.png)
 
-If you want to add a part from a costume that is not already shown in the **Costumes** tab, you need to add the costume to your sprite first. Click on the **Choose a Costume** icon, then find the costume that you want and click on it to add it to your sprite:
+यदि आप किसी पोशाक से कोई भाग जोड़ना चाहते हैं जो पहले से **पोशाक** टैब में नहीं दिखाया गया है, तो आपको पहले पोशाक को अपने स्प्राइट में जोड़ना होगा। **पोशाक चुनें** आइकन पर क्लिक करें, फिर वह पोशाक ढूंढें जो आप चाहते हैं और अपने स्प्राइट में जोड़ने के लिए उस पर क्लिक करें:
 
-![The 'Choose a Costume' icon highlighted.](images/choose-a-costume.png)
+!['पोशाक चुनें' आइकन हाइलाइट किया गया।](images/choose-a-costume.png)
 
-When you have copied the part that you need, go back to the duplicated costume and click on **Paste**. डुप्लीकेट पोशाक अब कुछ इस तरह दिखनी चाहिए:
+जब आप अपनी जरूरत का हिस्सा कॉपी कर लें, तो डुप्लीकेट पोशाक पर वापस जाएं और **पेस्ट** पर क्लिक करें। डुप्लीकेट पोशाक अब कुछ इस तरह दिखनी चाहिए:
 
-![The nano-a2 costume with the arm from the nano-c costume.](images/nano-a2-new-arm.png)
+![नैनो-सी पोशाक के हाथ के साथ नैनो-ए2 पोशाक।](images/nano-a2-new-arm.png)
 
-अब, **कोड** टैब पर क्लिक करें। You will be able to use the new costume in your code blocks:
+अब, **कोड** टैब पर क्लिक करें। आप कोड खंड में नई पोशाक का उपयोग कर पाएंगे:
 
 ```blocks3
 switch costume to [nano-a2 v] // the edited costume
