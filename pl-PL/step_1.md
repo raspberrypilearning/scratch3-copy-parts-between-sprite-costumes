@@ -1,6 +1,6 @@
 Kliknij zakładkę **Kostiumy** dla twojego duszka.
 
-**Wskazówka:** Powiel kostium, który chcesz edytować - aby w razie potrzeby można było użyć oryginalnego kostiumu, jeśli będziesz potrzebowała. Aby to zrobić, kliknij prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) kostium i wybierz **duplikuj**. Otrzymasz teraz kopię kostiumu:
+**Wskazówka:** Powiel kostium, który chcesz edytować — aby w razie potrzeby można było użyć oryginalnego kostiumu, jeśli będziesz potrzebować. Aby to zrobić, kliknij prawym przyciskiem myszy (lub na tablecie naciśnij i przytrzymaj) kostium i wybierz **duplikuj**. Otrzymasz teraz kopię kostiumu:
 
 ![Opcja „duplikat” podświetlona w menu.](images/nano-duplicate-costume.png)
 
@@ -28,8 +28,8 @@ Po skopiowaniu potrzebnej części wróć do zduplikowanego kostiumu i kliknij *
 
 ![Kostium nano-a2 z ramieniem z kostiumu nano-c.](images/nano-a2-new-arm.png)
 
-Teraz przejdź do zakładki **Skrypt**. Będziesz mógł użyć nowego kostiumu w swoich blokach kodu:
+Teraz przejdź do zakładki **Skrypt**. Możesz użyć nowego kostiumu w swoich blokach kodu:
 
 ```blocks3
-switch costume to [nano-a2 v] // the edited costume
+switch costume to [nano-a2 v] // edytowany kostium
 ```
